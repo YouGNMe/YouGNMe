@@ -19,8 +19,8 @@
 
 ### 📫 Contact
 
-- 🔗 [Portfolio Website](https://yougnme.github.io/portfolio/)
-- 💼 [LinkedIn](https://linkedin.com/in/eugen-metzler-8208780339)
+- 🔗 [Portfolio Website](https://yougnme.github.io/eugenecoding/)
+- 💼 [LinkedIn](https://linkedin.com/in/eugen-metzler-8208780339/)
 - 🐙 [GitHub](https://github.com/YouGNMe)
 
 ---
