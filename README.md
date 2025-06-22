@@ -20,7 +20,7 @@
 ### 📫 Contact
 
 - 🔗 [Portfolio Website](https://yougnme.github.io/eugenecoding/)
-- 💼 [LinkedIn](https://linkedin.com/in/eugen-metzler-8208780339/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/eugen-metzler-820780339/))
 - 🐙 [GitHub](https://github.com/YouGNMe)
 
 ---
